@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "profile": "competitive",
+  "auto_start_with_game": true,
+  "minimize_to_tray": true,
+  "check_updates": true,
+
+  "game_processes": [
+    "cs2.exe",
+    "valorant.exe",
+    "fortnite.exe",
+    "apex_legends.exe",
+    "overwatch.exe"
+  ],
+
+  "optimization_modules": {
+    "system": { "enabled": true,  "tweaks_applied": 18, "tweaks_total": 18 },
+    "network": { "enabled": true, "tweaks_applied": 12, "tweaks_total": 12 },
+    "memory": { "enabled": true,  "tweaks_applied": 8,  "tweaks_total": 8  },
+    "game":   { "enabled": true,  "tweaks_applied": 15, "tweaks_total": 15 }
+  },
+
+  "quick_tools": {
+    "game_mode": true,
+    "memory_cleaner": true,
+    "startup_manager": true,
+    "service_optimizer": true
+  },
+
+  "ui": {
+    "theme": "dark",
+    "accent_color": "#22c55e"
+  },
+
+  "logging": {
+    "level": "INFO",
+    "file": "data/data.dat"
+  }
+}
