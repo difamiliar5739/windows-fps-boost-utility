@@ -1,0 +1,82 @@
+{
+  "version": "1.0.0",
+  "profile": "competitive",
+  "auto_start_with_game": true,
+  "minimize_to_tray": true,
+  "check_updates": true,
+
+  "game_processes": [
+    "cs2.exe",
+    "valorant.exe",
+    "fortnite.exe",
+    "apex_legends.exe",
+    "overwatch.exe",
+    "dota2.exe",
+    "pubg.exe",
+    "r5apex.exe"
+  ],
+
+  "optimization_modules": {
+    "system": {
+      "enabled": true,
+      "disable_gamedvr": true,
+      "disable_fullscreen_optimizations": true,
+      "disable_nagle": true,
+      "mmcss_priority": "high",
+      "disable_xbox_game_bar": true,
+      "disable_telemetry": true,
+      "set_high_performance_power_plan": true
+    },
+    "network": {
+      "enabled": true,
+      "tcp_optimize": true,
+      "disable_nagle_algorithm": true,
+      "tcp_ack_frequency": 1,
+      "tcp_no_delay": true,
+      "disable_qos_reserved_bandwidth": true,
+      "network_throttling_index": 0
+    },
+    "memory": {
+      "enabled": true,
+      "clear_standby_list": true,
+      "disable_paging_executive": false,
+      "large_system_cache": true,
+      "clear_temp_on_start": true
+    },
+    "game": {
+      "enabled": true,
+      "set_high_priority": true,
+      "disable_game_bar": true,
+      "gpu_preference": "high_performance",
+      "hardware_accelerated_gpu_scheduling": true,
+      "variable_refresh_rate": false
+    }
+  },
+
+  "quick_tools": {
+    "game_mode": true,
+    "memory_cleaner": true,
+    "startup_manager": true,
+    "service_optimizer": true
+  },
+
+  "ui": {
+    "theme": "dark",
+    "accent_color": "#22c55e",
+    "show_realtime_graphs": true,
+    "graph_update_interval_ms": 1000
+  },
+
+  "logging": {
+    "level": "INFO",
+    "file": "data/data.dat",
+    "max_size_mb": 10,
+    "rotate": true
+  },
+
+  "rollback": {
+    "enabled": true,
+    "auto_backup_before_apply": true,
+    "backup_dir": "data/backups"
+  }
+}
